@@ -1,5 +1,5 @@
 # photoshare
-图片分享网站。SpringBoot+Vue3
+图片分享网站。SpringBoot3+Vue3
 # 前言
 
 本项目名为MHBan,是一个简单的图片分享展示网站，如果有机会，我会继续更新。(虽然这个项目很垃圾，但**禁止商用**！)
